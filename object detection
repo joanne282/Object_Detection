@@ -11,12 +11,12 @@ Deep Learning을 이용한 'Object Dection'은 여러물체에 대한
 Object Detection은 
 -  1-stage detector (ex - YOLO계열(YOLO v1,2,3,4), SSD계열(SSD, DSSD, DSOD, RetinaNet,RefineDet))
 -  2-stage detector (ex - R-CNN, Fast R-CNN, Faster R-CNN, R-FCN, Mask R-CNN)
-으로 나눌 수 있다.
+으로 나눌 수 있음
 
 자세하지만, 간단히 설명/비교를 하자면,
-  - 1-stage detector는 Regional Proposal과 Classification이 동시에 진행한다.
-    즉, Localization과 Classification이 동시에 진행하여 속도가 빨라 실시간 분석에 용이하다는 장점을 가지고 있지만, 정확도가 낮다는 단점을 가지고 있다.
+  - 1-stage detector는 Regional Proposal과 Classification이 동시에 진행
+    즉, Localization과 Classification이 동시에 진행하여 속도가 빨라 '실시간 분석에 용이'하다는 장점을 가지고 있지만, '정확도가 낮다'는 단점을 가지고 있음
 
   - 2-stage detector는 Regional Proposal과 Classification이 순차적으로 진행한다.
-    즉, Localization과 Classification이 순차적으로 진행하여 속도가 느리다는 단점을 가지고 있지만, 정확도가 높다는 장점을 가지고 있다.
+    즉, Localization과 Classification이 순차적으로 진행하여 '속도가 느리다'는 단점을 가지고 있지만, '정확도가 높다'는 장점을 가지고 있다.
 
