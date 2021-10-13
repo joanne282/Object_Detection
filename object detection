@@ -5,7 +5,7 @@
 Deep Learning을 이용한 'Object Dection'은 여러물체에 대한 
 'Multi-Labeled Classification' 과 
 물체의 위치에 대한 
-'Bounding Box Regeression(Localization)'을 합쳐 
+'Bounding Box Regression(Localization)'을 합쳐 
 이미지에 나타난 여러물체를 분석/검출할 수 있음
 
 Object Detection은 
